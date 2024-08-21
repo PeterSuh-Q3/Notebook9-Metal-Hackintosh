@@ -15,7 +15,7 @@ macOS Monterey on Samsung Notebook 9 Metal (2017)
 | Integrated Graphics | Intel HD Graphics 620                     |
 | Sound Card          | Realtek ALC256 (layout-id:13)           |
 | Ethernet Card       | Realtek RTL8168/8111                        |
-| Wireless Card       | Intel Wireless 8265                        |
+| Wireless Card       | Intel Wireless 8265 https://github.com/OpenIntelWireless/itlwm/releases |
 | OpenCore Version    | 1.0.0                        |
 
 
